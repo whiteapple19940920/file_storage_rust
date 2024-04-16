@@ -1,0 +1,1 @@
+/home/admin/_rust_projects/file_storage_manager/target/debug/libfile_storage_manager.rlib: /home/admin/_rust_projects/file_storage_manager/src/lib.rs /home/admin/_rust_projects/file_storage_manager/src/storage_manager.rs
